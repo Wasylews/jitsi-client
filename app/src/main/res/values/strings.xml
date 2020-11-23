@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JitsiConnectApp</string>
+    <string name="mute">Mute</string>
+    <string name="camera_off">Turn off camera</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="enter_conference_id">Enter conference id</string>
+</resources>
